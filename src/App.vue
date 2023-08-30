@@ -24,7 +24,7 @@ export default {
     color: orange;
 }
 
-.register input{
+.form input{
   width: 300px;
   height: 40px;
   padding-left:20px;
@@ -34,7 +34,7 @@ export default {
   margin-right: auto;
 }
 
-.register button{
+.form button{
   width: 320px;
   height:40px;
   cursor: pointer;

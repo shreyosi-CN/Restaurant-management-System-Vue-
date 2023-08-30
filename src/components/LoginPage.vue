@@ -1,7 +1,7 @@
 <template>
     <h3 class="pageHead">Login</h3>
 
-   <div class="register">
+   <div class="form">
   <input type="email" placeholder="Enter Email" v-model="email"/>
   <input type="password" placeholder="Enter Password" v-model="password"/>
   <button v-on:click="login">Login</button>

@@ -1,6 +1,6 @@
 <template>
 <h3 class="pageHead">Sign Up</h3>
-<div class="register">
+<div class="form">
   <input type="text" placeholder="Enter Name" v-model="name"/>
   <input type="email" placeholder="Enter Email" v-model="email"/>
   <input type="password" placeholder="Enter Password" v-model="password"/>
